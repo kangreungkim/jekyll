@@ -1,23 +1,23 @@
 - title: Documentation
   url: docs
   links:
+    - title: 개발환경구축
+      url: "docs/install"      
+    - title: 테마적용
+      url: "docs/thema"
+    - title: _config.yml
+      url: "docs/config-setup"
+    - title: 사이드메뉴변경
+      url: "docs/toc-setup"
     - title: "Getting Started"
-      url: "docs/getting-started"
+      url: "docs/getting-started"      
       children:
-        - title: 개발환경구축
-          url: "docs/install"      
-        - title: 테마적용
-          url: "docs/thema"
-        - title: _config.yml
-          url: "docs/config-setup"
-        - title: 사이드메뉴변경
-          url: "docs/toc-setup"
         - title: Features
           url: "docs/getting-started#getting-started"
         - title: Development
           url: "docs/getting-started#development"
         - title: Customization
-          url: "docs/getting-started#customization"          
+          url: "docs/getting-started#customization"      
     - title: Versioning
       url: "docs/versioning"
     - title: "About"
