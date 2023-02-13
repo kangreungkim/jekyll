@@ -27,6 +27,8 @@
 - title: "Extras"
   url: "docs/extras"
   links:
+    - title: "마크다운 편집기"
+      url: "docs/markdown-edit"
     - title: Quizzes
       url: "docs/extras/example-quiz"
     - title: Tags Page

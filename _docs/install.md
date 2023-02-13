@@ -61,6 +61,15 @@ bundle install 를 꼭 실행 해 주어야 한다.
 bundle install
 ```
 
+##### Github Pages gem 업데이트
+Bundler를 설치한 경우 bundle update github-pages를 실행합니다.
+
+Bundler가 설치되어 있지 않으면 gem update github-pages를 실행합니다.
+```
+bundle update github-pages
+//gem update github-pages
+```
+
 #### 로컬에서 블러그 수정사항을 확인하려면
 ```
 bundle exec jekyll serve --livereload
